@@ -1,0 +1,966 @@
+[
+ {
+  "id": "ssu_catch:28ef28380247",
+  "source": "ssu_catch",
+  "source_id": "28ef28380247",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%ED%95%99%EC%82%AC&paged=1&slug=2026%EB%85%84-%ED%95%99%EC%83%9D-%EC%98%88%EB%B9%84%EA%B5%B0-%EB%8F%99%EC%9B%90-%EB%B3%B4%EC%B6%A9%EB%8C%80%EB%8C%80-%ED%9B%88%EB%A0%A8-%EA%B3%84%ED%9A%8D-%EB%B0%8F-%EC%9C%A0%EA%B3%A0-%EA%B2%B0&keyword",
+  "title": "2026년 학생 예비군 동원 보충대대 훈련 계획 및 유고 결석 신청 절차(안내)",
+  "topic": "학사",
+  "posted_at": "2026-10-01",
+  "updated_at": "2026-10-24T20:56:27+09:00",
+  "deadline_status": "UNKNOWN",
+  "deadline_at": null,
+  "deadlines": [
+   {
+    "kind": "EVENT",
+    "label": "2026년 학생 예비군 동원 보충대대 훈련",
+    "date": "2026-11-12",
+    "at": "2026-11-12T09:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "gender": "MALE_ONLY",
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "2026년 학생 예비군 동원 보충대대 훈련 계획 및 유고 결석 신청 절차 안내",
+  "body": "1. 관련 근거 : 26년 동원 예비군 훈련 지침\n2. 위 관련 근거에 의거 2026년 학생 예비군 동원 보충 대대 훈련 계획 및 유고 결석 신청 절차\n안내를 붙임과 같이 하니 대학(원)별 수업 일정 및 업무에 참고 하시기 바랍니다.\n가. 훈련 계획\n1) 훈련 일시: 11월 12일(월), 09시~18시\n2) 훈련 장소: 서초과학화예비군훈련장(강남·서초)\n3) 훈련 인원: 431명\n3. 행정 사항\n가. 과제, 발표, 관련 불이익 방지 및 훈련 참석한 학생이 강의자료 요청 시 제공 협조\n※ 수업관련 불이익 처분 시 예비군법에 의거 처벌(학교의 장은 2년 이하징역 또는 2천만원\n이하 벌금 또는 교직원은 500원 이하 과태료) 부과되므로 학교 차원의 관심과 세심한\n주의를 당부드립니다.\n나. 각 대학(원) 예비군 훈련 계획을 학과 사무실 앞 게시판에 공지해 주시기 바랍니다.\n다. 신분증 지참 : 운전면허증, 주민등록증, 여권 등(학생증 불가)\n라. 예비군 홈페이지(http://www.yebigun1.mil.kr/) 소속 및 훈련 일자, 통지서 확인 출력 가능\n마. 훈련 복장 준수 : 전투복, 전투화, 전투모, 고무링, 요대 착용\n바. 피복 대여시 예비군 연대 방문 신청 및 교환권 받아 훈련 부대 제출\n사. 지연 입소 불가(09:00 이후 훈련 입소 불가)\n아. 훈련일자 변경불가 등 부득이한 사정으로 연기 신청시 병무청 홈페이 또는 전화\n(820-4466, 4560) 신청\n자. 출발 장소 : 베어드 홀 입구(07:10)\n1) 운행 시간 : 학교⇨서초과학화예비군훈련장(강남·서초) (07:10∼07:30, 2∼3분 간격)\n2) 복귀 시간 : 서초과학화예비군훈련장(강남·서초)⇨학교(18:00∼)\n3) 개별 출발자 훈련장 도착 시간 08시 50분 까지(대중교통 이용 시 학교⇨훈련장 1시30분 소요)\n※ 대중교통 : 양재역, 서초문화예술회관 앞 ⇒ 헌인릉 , 서초과학화예비군훈련장(강남·서초)\n(버스 : 광역버스(9404, 9409,) 간선버스(741번, 440번 등)\n4. 훈련제외 대상\n2026학년 2학기 학적변동자: 9월 1일부 휴학, 8학기초과(건축학부 5학년 10학기), 자퇴,\n제적, 졸업, 수료, 2차 기본훈련 대상자 등\n붙 임 : 유고 결석 및 채플 출석 인정 신청 안내 1부. 끝.",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [
+   {
+    "name": "붙임2-재학생-유고결석-신청-매뉴얼.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs3s951OS20nWMSkQ%2BjvE72wDvilqIVPmizraQ%2F0vUcw9MEi3ecgxVRDAQsjyrmpVDaq9zq9A1PSgwTFBt8UxvsFkZawPkr5TvomHz%2F5zt6%2F8j5E6rxJSqjmrpuopFqp5w1kR8thNxnA0eD4fLiZ3AUM3Lvn5g%2FZwqA%2Bzafrlp2Qa"
+   }
+  ],
+  "extra": {
+   "source_key": "2026년-학생-예비군-동원-보충대대-훈련-계획-및-유고-결"
+  }
+ },
+ {
+  "id": "ssu_catch:c9190092e2c0",
+  "source": "ssu_catch",
+  "source_id": "c9190092e2c0",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%ED%95%99%EC%82%AC&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B2%A8%EC%9A%B8%EA%B3%84%EC%A0%88%EC%A0%9C-%EC%B0%A8%EC%84%B8%EB%8C%80%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%98%81%EC%8B%A0%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99-%EA%B0%84&keyword",
+  "title": "2026학년도 겨울계절제 차세대반도체 혁신융합대학 간 학점교류 신청 안내",
+  "topic": "학사",
+  "posted_at": "2026-10-12",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-10-15T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "APPLICATION",
+    "label": "중앙대학교",
+    "date": "2026-10-15",
+    "at": "2026-10-15T23:59:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "서울대학교",
+    "date": "2026-10-16",
+    "at": "2026-10-16T23:59:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "min_semester": 2,
+   "max_semester": 7,
+   "levels": [],
+   "statuses": [
+    "ENROLLED"
+   ],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "2026학년도 겨울계절제 차세대반도체 혁신융합대학 간 학점교류 신청 안내",
+  "body": "*해당 공고문은 대학별 학점교류 안내에 따라 업데이트 되므로, 반드시 최신 버전으로 확인 바랍니다.\n1. 혁신융합대학 사업이란?\n차세대반도체 분야 7개 대학 컨소시엄 : 숭실대, 서울대, 중앙대, 강원대, 대구대, 포항공대, 조선이공대\n기존 전공과 관계없이 학점교류 방식으로 컨소시엄 대학 간 개설된 과목을 수강 가능\n컨소시엄 간 신기술분야의 교원, 교육 콘텐츠, 기자재 등의 자원공유 및 공동활용을 통해 대학 간 협력 체계 구축\n비전공자를 위한 수준별 모듈형 교육과정을 제공하여 차세대반도체 관련 학위 취득 가능\n마이크로디그리(9학점) 인증서 및 다전공(부전공, 복수전공, 연계전공, 융합전공, 심화전공) 신청 가능\n※ 차세대반도체 혁신융합대학 관련 자세한 사항은 공식 홈페이지(https://semicon.disu.ac.kr)를 참고해주시기 바랍니다.\n2. 2026학년도 여름학기 차세대반도체 컨소시엄대학 개설 과목 안내(지속 업데이트 예정)\n3. 신청자격: 교과목 수강 시점 기준 2~7학기 재학생\n4. 대학별 신청 기간 및 안내 링크\n중앙대학교(2026년 10월 15일까지) https://www.disu.ac.kr/community/notice?md=v&bbsidx=8892\n서울대학교(2026년 10월 16일까지) https://www.disu.ac.kr/community/notice?md=v&bbsidx=8899\n5. 문의: 숭실대학교 차세대반도체학과 행정팀 ☎ 02-829-8224/8226, disu@ssu.ac.kr",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "source_key": "2026학년도-겨울계절제-차세대반도체-혁신융합대학-간"
+  }
+ },
+ {
+  "id": "ssu_catch:6e89c49af9b5",
+  "source": "ssu_catch",
+  "source_id": "6e89c49af9b5",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EC%9E%A5%ED%95%99&paged=1&slug=2027%EB%85%84%EB%8F%84-%EB%8C%80%EC%82%B0%EB%86%8D%EC%B4%8C%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B411-11-%EC%88%98&keyword",
+  "title": "2027년도 대산농촌재단 장학생 선발 안내(~11.11.수)",
+  "topic": "장학",
+  "posted_at": "2026-10-06",
+  "updated_at": "2026-10-08T15:32:29+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-11T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-11-11",
+    "at": "2026-11-11T23:59:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "low"
+  },
+  "summary": null,
+  "body": "자세한 내용은 붙임파일의 공고문을 참고하시기 바랍니다.\n※ 포스터 클릭 시, 대산농촌재단 홈페이지로 이동(신청양식 확인)",
+  "needs_review": false,
+  "content_kind": "첨부만",
+  "attachments": [
+   {
+    "name": "붙임2-2027-대산장학생-선발요강.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs1rEN%2Bv7mrohJHBxVEOLvrFe6725LPtbY%2Fro%2FSEbz6hzuM0FTeTjhYaSBGe8aK%2FHMIMb2PA1KdjGkueu5Yid3WpHxvNac752BJrNqAub5l%2FlwSGkqDkS6GE%2FfYTy27KUPKNWmufJou5npO025ll8z3Y%3D"
+   }
+  ],
+  "extra": {
+   "source_key": "2027년도-대산농촌재단-장학생-선발-안내11-11-수"
+  }
+ },
+ {
+  "id": "ssu_catch:e6f31e8044ac",
+  "source": "ssu_catch",
+  "source_id": "e6f31e8044ac",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EC%9E%A5%ED%95%99&paged=1&slug=hy%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%E3%80%8C2026%EB%85%84-%EB%93%A0%EB%93%A0-%ED%95%99%EC%97%85%EC%A7%80%EC%9B%90%EA%B8%88%E3%80%8D%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B410-8&keyword",
+  "title": "hy사회복지재단 「2026년 든든 학업지원금」선발 안내(~10.8.목 17시)",
+  "topic": "장학",
+  "posted_at": "2026-10-01",
+  "updated_at": "2026-10-08T15:32:29+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-10-08T17:00:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-10-08",
+    "at": "2026-10-08T17:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "low"
+  },
+  "summary": null,
+  "body": "자세한 사항은 붙임파일의 공고문을 확인하시기 바랍니다.\n※ 포스터 클릭 시, hy사회복지재단 홈페이지로 이동",
+  "needs_review": false,
+  "content_kind": "첨부만",
+  "attachments": [
+   {
+    "name": "2026년-든든-학업지원금-연장-공고문.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs8ETnYlz3KcSsoNKCvzIiIJdGQNNkA4hi7%2BbMOGuYlSjIj%2FCM76f5SHPWWcf6F%2FICNy5GLLAI4e05%2FHozp37qRIJuZtL4KsL4IKvLOZFiI5GPbyt4ClMb18LDsTpIsNgzAMgaj5fVJhWhGLY0NQCjSKttvuhLZ4vU9wrQKjORHWr"
+   }
+  ],
+  "extra": {
+   "source_key": "hy사회복지재단-「2026년-든든-학업지원금」선발-안내10-8"
+  }
+ },
+ {
+  "id": "ssu_catch:518d5b765a02",
+  "source": "ssu_catch",
+  "source_id": "518d5b765a02",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EA%B5%AD%EC%A0%9C%EA%B5%90%EB%A5%98&paged=1&slug=2027%EB%85%84-%EA%B0%80%EC%9D%84%ED%95%99%EA%B8%B0-saf-%EB%B0%A9%EB%AC%B8%ED%95%99%EC%83%9D-ies-%ED%95%B4%EC%99%B8-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%8C%80%EB%A9%B4-%EC%84%A4%EB%AA%85%ED%9A%8C&keyword",
+  "title": "2027년 가을학기 SAF 방문학생 / IES 해외 인턴십 대면 설명회 안내",
+  "topic": "해외·교환",
+  "posted_at": "2026-10-22",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-15T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-11-15",
+    "at": "2026-11-15T23:59:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "2027년 가을학기 SAF 방문학생 / IES 해외 인턴십 대면 설명회",
+    "date": "2026-11-21",
+    "at": "2026-11-21T13:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "2027년 가을학기 SAF 방문학생 및 IES 해외 인턴십 대면 설명회 개최 안내",
+  "body": "[2027년 가을학기 SAF 방문학생 / IES 해외 인턴십 대면 설명회]\n📅 행사 일시: 2026년 11월 21일(토) 오후 1~4시\n📍장소: SAF Korea 사무소 (서울시 종로구 새문안로3길 12 신문로빌딩 4층 IES Global, 광화문역 8번 출구에서 260m)\nhttps://naver.me/Fnmeple7\n⏰ 참가신청 마감일: 2026년 11월 15일(일) 저녁 11:59\n🎤 스피커:\n– 송지혜 SAF Korea 학생카운슬링 매니저\n– 한석희 SAF 동문 (한국외대 이탈리아어과 경영학 전공, UC 버클리 Haas 방문학생 & IES 밀라노 인턴십 참가, 미국계 은행 여름 인턴십 후 취업 확정)\n📢 2027년도 가을학기 프로그램 안내문- 12월 발행 예정 (2026년 가을학기 프로그램 참고)\nhttps://iesabroad.box.com/s/64l2n0rwckmw33f8lqlj0lgqkv36mxbz\n*사전 참가 신청서: https://forms.gle/AFLjNikkEvgTzm1b7\n행사 문의:\nSAF Korea 카카오톡채널 https://pf.kakao.com/_xgsXNV\n02-735-1950",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [
+   {
+    "name": "2027-가을학기-SAF-방문학생-IES-해외-인턴십-대면-설명회-포스터.png",
+    "url": "https://scatch.ssu.ac.kr/wp-content/uploads/sites/5/2026/10/2027-가을학기-SAF-방문학생-IES-해외-인턴십-대면-설명회-포스터.png"
+   },
+   {
+    "name": "download.php?data=T4ojlsI54Vy0JJ5saH%2BImw%3D%3D",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=T4ojlsI54Vy0JJ5saH%2BImw%3D%3D"
+   }
+  ],
+  "extra": {
+   "source_key": "2027년-가을학기-saf-방문학생-ies-해외-인턴십-대면-설명회"
+  }
+ },
+ {
+  "id": "ssu_catch:768c460e9bd4",
+  "source": "ssu_catch",
+  "source_id": "768c460e9bd4",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EA%B5%AD%EC%A0%9C%EA%B5%90%EB%A5%98&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%98%81%EA%B5%AD-university-of-lancashireenglish-language-winter-school-2027-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4&keyword",
+  "title": "[겨울 단기] 영국 University of LancashireEnglish Language Winter School 2027 참가자 모집 안내",
+  "topic": "해외·교환",
+  "posted_at": "2026-10-18",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-06T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-11-06",
+    "at": "2026-11-06T23:59:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "English Language Winter School 2027 연수",
+    "date": "2027-01-18",
+    "at": "2027-01-18T00:00:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [
+    "ENROLLED"
+   ],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [
+    "만 18세 이상",
+    "영어 CEFR B1, B2 또는 C1 수준 학생"
+   ],
+   "confidence": "medium"
+  },
+  "summary": "영국 University of Lancashire에서 진행하는 겨울 단기 어학연수 프로그램 참가자 모집",
+  "body": "영국 University of Lancashire에서 아래와 같이 「English Language Winter School 2027」 참가자를 모집하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n※ 본 프로그램은 최소 참가인원 15명 충족을 전제로 운영되며, 상대교 사정 및 모집 결과에 따라 변경 또는 취소될 수 있습니다.\n1. 프로그램 개요\n프로그램명\nEnglish Language Winter School 2027\n운영기관\nUniversity of Lancashire, Language Academy\n연수기간\n2027. 1. 18.(월) ~ 2. 12.(금) / 4주\n연수장소\n영국 Preston, University of Lancashire\n교육내용\n· 영어 Speaking, Listening, Grammar, Vocabulary\n· 토론, 발표 및 그룹 프로젝트\n· 영국 역사·문화 관련 주제별 수업\n· 국제학생 및 영국 현지 학생과의 교류\n· 주 1회 영국 주요 도시 현장학습\n수업시간\n주 18시간 / 4주 총 72시간 예정\n지원자격\n· 만 18세 이상\n· 영어 CEFR B1, B2 또는 C1 수준 학생\n※ 공인어학성적 제출 여부는 상대교에 확인 필요\n수업인원\n반당 최대 20명\n숙소\n취사시설 및 주방이 마련된 학생 숙소(Self-catered flat)\n※ Language Academy까지 도보 약 10~15분\n※ 객실 유형 및 배정 세부사항은 추후 안내\n운영조건\n최소 참가인원 15명 기준\n※ 최소인원 미달 시 프로그램 변경 또는 취소 가능\n2. 주차별 교육 및 현장학습\n구분\n주제 및 주요 내용\n현장학습\n1주차\nGlobal Graduate\n· 문화 이론\n· 문화 간 의사소통\n· 다문화 팀 협업\nManchester\n(맨체스터)\n2주차\nBritish History\n· 영국 왕실\n· 고대 영국\n· 대영제국의 역사\nYork\n(요크)\n3주차\nFood and Drink in the UK\n· 영국의 식문화\n· 애프터눈 티\n· 영국식 아침식사\nEdinburgh\n(에든버러)\n4주차\nMusic and Film\n· 비틀스와 영국 음악\n· 음악 페스티벌\n· Harry Potter 및 Sherlock Holmes\nLiverpool\n(리버풀)\n※ 상기 일정은 상대교 안내자료 기준이며, 현지 사정에 따라 변경될 수 있습니다.\n3. 참가비용\n구분\n내용\n프로그램비\nGBP 3,200 (1인 기준)\n포함사항\n영어 수업 및 숙소 비용\n선택사항\n사전 예약 시 영어능력시험 응시 가능\n※ 별도 응시료 GBP 100\n※ 식비, 항공료, 보험료, 공항 픽업 및 기타 개인경비 등의 포함 여부와 세부 비용은 상대교에 확인 후 별도 안내합니다.\n※ 주말 선택 여행은 별도로 운영될 수 있으며, 참가비 및 예약 관련 세부사항은 상대교에 문의하시기 바랍니다.\n4. 지원 절차\n※ 중요: 본 프로그램 참가를 희망하는 학생은 반드시 숭실대학교 국제팀에 먼저 지원해야 합니다.\n상대교에 직접 신청하기 전에 본교 온라인 지원 및 서류 제출을 완료하고, 국제팀의 확인을 받은 후 안내되는 절차에 따라 지원하시기 바랍니다.\n가. 본교 지원기한: ~11/6 (금)\n※ 상대교 지원 마감일은 2026년 11월 중으로 조율 중이며, 정확한 일정은 추후 안내 예정입니다.\n나. 지원 방법\n1) 숭실대학교 지원 (필수)\n가) 본교 온라인 지원: 온라인 지원 바로가기\n나) 온라인 지원 후 국제팀에 관련 서류 이메일 제출\n– 서류 접수 이메일: stp@ssu.ac.kr\n– 제출 서류: ① 단기연수 프로그램 지원서 ② 개인정보제공활용 동의서\n– 메일 제목: [영국 Lancashire 겨울단기] 이름_학번 서류 제출\n2) 상대교 지원\n가) 본교 지원서류 및 지원자격 확인\n나) 국제팀 확인 후 상대교 지원절차 별도 안내\n다) 최종 참가 가능 여부는 상대교의 모집인원 및 운영 확정 결과에 따라 결정\n5. 학점 인정 안내\n가. 학점인정 가능 여부: 본교 기준 충족 시 최대 3학점 인정 가능\n본 프로그램은 4주 과정으로, 본교 단기연수 학점인정 기간요건인 3주 이상을 충족합니다.\n다만, 1과목당 최소 45시간 이상 이수 등 본교 학점인정 요건을 충족해야 하며, 최종 인정 여부는 상대교의 성적표·수업시간 증빙자료 및 본교 학점인정 절차에 따라 결정됩니다.\n나. 성적 표기: P / F\n다. 학점 인정 시기: 2026학년도 동계 계절학기\n라. 학점인정 요건\n· 2026학년도 2학기 본교 재학생이어야 함\n· 본교 동계 계절학기 별도 등록 필요(추가 비용 발생)\n· 프로그램 이수 후 학점인정에 필요한 증빙자료 제출\n※ 본 프로그램의 과목별 이수시간 및 성적증빙 발급 방식은 상대교에 확인 중이므로, 학점인정이 최종 보장되는 것은 아닙니다.\n6. 유의사항\n가. 본 프로그램은 최소 참가인원 15명 충족을 전제로 운영됩니다. 최소인원 미달 시 프로그램이 변경 또는 취소될 수 있습니다.\n나. 참가인원은 본교 및 타 대학 참가학생 등을 포함하여 구성될 수 있으며, 최종 운영 여부는 상대교에서 결정합니다.\n다. 최종 모집 마감일, 숙소 배정, 비용 포함사항, 현지 이동 및 신청절차 등은 상대교 안내에 따라 변경될 수 있습니다.\n라. 본교 지원 및 국제팀 확인 없이 상대교에 먼저 개별 지원하지 않도록 유의하시기 바랍니다.\n마. 학점인정 희망자는 프로그램 수료 후 학점인정에 필요한 관련 증빙자료를 제출해야 합니다.\n7. 문의처\n가. 본교 문의: 숭실대학교 국제팀 (stp@ssu.ac.kr, 02-820-0757)\n나. 프로그램 문의: University of Lancashire Language Academy (languageacademy@lancashire.ac.uk)\n다. 상대교 홈페이지: University of Lancashire Language Academy 바로가기\n붙임\n1. Language Academy Winter School 2027 안내자료 1부.\n2. 단기연수 프로그램 지원서 1부.\n3. 개인정보제공활용 동의서 1부. 끝.",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "source_key": "겨울-단기-영국-university-of-lancashireenglish-language-winter-school-2027-참가자-모집-안내"
+  }
+ },
+ {
+  "id": "ssu_catch:7702d961723f",
+  "source": "ssu_catch",
+  "source_id": "7702d961723f",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EA%B5%90%EC%A7%81&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EA%B5%90%EC%A7%81-%EC%A0%81%C2%B7%EC%9D%B8%EC%84%B1%EA%B2%80%EC%82%AC-%EC%84%B1%EC%9D%B8%EC%A7%80-%EA%B5%90%EC%9C%A1-%EC%9D%91%EA%B8%89%EC%B2%98&keyword",
+  "title": "2026학년도 1학기 교직 적·인성검사/성인지 교육/응급처치·심폐소생술 실습 안내",
+  "topic": "학사",
+  "posted_at": "2026-06-19",
+  "updated_at": "2026-10-08T15:32:29+09:00",
+  "deadline_status": "UNKNOWN",
+  "deadline_at": null,
+  "deadlines": [],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "low"
+  },
+  "summary": null,
+  "body": "",
+  "needs_review": false,
+  "content_kind": "첨부만",
+  "attachments": [
+   {
+    "name": "2026학년도-교직과정-이수안내책자.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbszUWLC%2BYg73Z3ZQHRaAdslKmPmyZ45Ja22LpifjKPvX9TFX9QI%2B2g7c2QN4SSSRQqMe55zdLPrQFr%2FMuxKd%2F2YlBfUaNecSuBCnAHyxd0OfoYd%2FEwzSl9ywY5WWwHyt28ZBsJiIe9Y4ep4sXaVtnM14%3D"
+   }
+  ],
+  "extra": {
+   "source_key": "2026학년도-1학기-교직-적·인성검사-성인지-교육-응급처"
+  }
+ },
+ {
+  "id": "ssu_catch:706c61e63f6f",
+  "source": "ssu_catch",
+  "source_id": "706c61e63f6f",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EA%B5%90%EC%A7%81&paged=1&slug=2026%EB%85%84-8%EC%9B%94-%EC%A1%B8%EC%97%85%EC%98%88%EC%A0%95%EC%9E%90-%EA%B5%90%EC%9B%90%EC%9E%90%EA%B2%A9-%EB%AC%B4%EC%8B%9C%ED%97%98%EA%B2%80%EC%A0%95%EC%9B%90-%EC%A0%9C%EC%B6%9C-%EC%95%88%EB%82%B4&keyword",
+  "title": "2026년 8월 졸업예정자 교원자격 무시험검정원 제출 안내",
+  "topic": "학사",
+  "posted_at": "2026-06-16",
+  "updated_at": "2026-10-08T15:32:29+09:00",
+  "deadline_status": "UNKNOWN",
+  "deadline_at": null,
+  "deadlines": [],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "low"
+  },
+  "summary": null,
+  "body": "",
+  "needs_review": false,
+  "content_kind": "첨부만",
+  "attachments": [
+   {
+    "name": "붙임-1.-교원자격무시험검정원서.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs3L0VAWp6REZa5rGKofZ%2BXKQPVecpi0J5hOmkZXQgtcaDARuS97xbbG9hK9vssolvdQ1E9HffhpARdkh3U95KG2VT%2BySviAE6A2PSUN8DmzrZjWGNHsgi5kIJle6k25EjQ3oQ7tGSWF0DHehQE%2BBc5E%3D"
+   },
+   {
+    "name": "붙임-2.-교원자격무시험검정표_학과_학번_성명.xls",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs0MbHFMBhsSLtytR9nH91Q35mhWIc9AhmRY9RQGJ7w0Qv3T1cJzZC5rLadk0TOCgfFf0VJF544pd80%2BAAxAOKQN3r3eSxSfp884oiUrO6OUfOr73Q%2FTJxptXK7FDAYCOSoJXP1HxVWKj6dhfpvGRWc5EW8s0niQY9I1SD3Dd43d6j%2FrM0vg3lHvG782kQ9Po4g%3D%3D"
+   },
+   {
+    "name": "붙임-3.-2026학년도-교직과정-이수안내책자.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs570Y7n8vP5xGFIA%2FGoIPFXRIW79%2Bqc6gNTtJyDEf4k1qivBWauH3wmNEURlUr8A1%2BT6vbEVICV6x%2Fif%2B7M2OENC9XypaJDyLCjy3BJj1Ay1djh3kaCKtsLoaEoZHPg0mB%2BbzlGNUq%2BhRpURCDByqR%2FaXK9lWbDJ7igUMYIHlMv%2F81ljZHrrZ74u75iSPjUz3g%3D%3D"
+   },
+   {
+    "name": "붙임-4.-검사결과통보서-예시-양식.hwp",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs5lDH2drfnJyqJ5JNQITzgpe8qc9VC9JsNk5xMoJzkqvXhPBAC2DuIcqErJfrFLE6EVE%2BnheKkNpiQk4FVZZQn0pbqc%2BjHbojsQRDD3HsZkK%2BQK8IN5yh5T82lo7wM0d2wTMQB%2F482ZBhfwzFQBrhmk%3D"
+   }
+  ],
+  "extra": {
+   "source_key": "2026년-8월-졸업예정자-교원자격-무시험검정원-제출-안내"
+  }
+ },
+ {
+  "id": "ssu_catch:ddef62fa09bc",
+  "source": "ssu_catch",
+  "source_id": "ddef62fa09bc",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%ED%95%99%EC%82%AC&paged=1&slug=2026-2-%EB%B9%84%EC%A0%84%EC%B1%84%ED%94%8C-%EB%B3%B4%EC%B6%A9%EC%B1%84%ED%94%8C-%EC%9D%B4%EC%88%98-%EC%95%88%EB%82%B4&keyword",
+  "title": "2026-2 비전채플 보충채플 이수 안내",
+  "topic": "학사",
+  "posted_at": "2026-10-20",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "NONE",
+  "deadline_at": null,
+  "deadlines": [
+   {
+    "kind": "EVENT",
+    "label": "2026-2 비전채플 보충채플",
+    "date": "2026-11-16",
+    "at": "2026-11-16T08:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "DEPT",
+   "colleges": [
+    "공과대학"
+   ],
+   "depts": [
+    "건축학부"
+   ],
+   "grades": [
+    4
+   ],
+   "levels": [
+    "UNDERGRAD"
+   ],
+   "statuses": [
+    "ENROLLED"
+   ],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "high"
+  },
+  "summary": "2026-2학기 비전채플 보충채플 이수 일정 및 대상 안내",
+  "body": "비전채플 보충채플 이수 관련하여 아래 대상자 중 희망자는 해당 일정에 참석하시기 바랍니다.\n일 시: 2026.11.16.(월) 오전 8:00 (5분 경과 시 결석)\n장 소: 한경직기념관 김덕윤예배실 (로비 우측 끝에 위치)\n대상자: 아래의 1) ~ 2) 을 모두 충족하는 학생\n1) 2026-2학기 비전채플 수강한 7학기 이상 재학생 (4학년 이상)\n2) 비전채플 종강 시점 출석인정일이 6회로 F처리 예정인 학생\n– 결석일 2회로 PASS 요건 대비 1회 초과\n– 단, 건축학부 건축학전공의 경우 9학기 이상\n– 단, 비전채플 온라인분반(10분반) 수강학생은 제외\n※ 참고\n– 비전채플 PASS요건은 2026학년도부터 총 8회 중 7회 이상 출석 인정\n– 보충채플 이수요건 (아래 2가지 요건 모두 충족)\n1) 보충채플 일자에 8:05:00 전까지 김덕윤예배실 입실\n2) 수강 후 현장 퀴즈 응시 통과 (통과 기준 미달 시 추가과제 부여 가능)\n– 보충채플은 과거 FAIL 되었던 채플 교과를 재수강 하는 등의 보충 개념이 아니며,\n당해학기 수강 중인 비전채플 교과에서 출결횟수가 PASS 요건에서 1회 부족한 4학년만을 대상으로 함",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "source_key": "2026-2-비전채플-보충채플-이수-안내"
+  }
+ },
+ {
+  "id": "job_ssu:36941",
+  "source": "job_ssu",
+  "source_id": "36941",
+  "url": "https://job.ssu.ac.kr/service/careerEmpl/opportunityInfo.do?sjrSeq=2d552e9f9811125d8e632ae5a66db9eb",
+  "title": "2027년도 한국화낙 신입사원 모집공고'",
+  "topic": "채용·인턴",
+  "posted_at": "2026-10-23",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-08T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-11-08",
+    "at": "2026-11-08T23:59:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "온라인 AI 역량검사",
+    "date": "2026-11-16",
+    "at": "2026-11-16T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "실무진 면접",
+    "date": "2026-12-01",
+    "at": "2026-12-01T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "임원 면접",
+    "date": "2026-12-15",
+    "at": "2026-12-15T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "신체검사",
+    "date": "2026-12-22",
+    "at": "2026-12-22T00:00:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [
+    "GRADUATE",
+    "GRADUATING"
+   ],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [
+    "기계/전기/전자/제어/계측/컴퓨터공학",
+    "컴퓨터공학/정보통신/소프트웨어",
+    "전기/전자/제어/계측/기계",
+    "경영/경제/사회/법"
+   ],
+   "confidence": "medium"
+  },
+  "summary": "한국화낙 및 한국화낙서비스에서 2027년도 정규직 신입사원을 모집한다.",
+  "body": "2027년도 정규직 신입사원 모집 공고\n지원기간 : 2026년 10월 22일 ~ 11월 08일(일) 오후 11시 59분까지\n1. 모집부문\n회사 | 모집\n부문 | 직무내용 | 모집\n인원 | 지원 자격 | 근무\n지역\n한국\n화낙\n주식\n회사 | 기술지원 | • 공작기계 및 산업기계 개발 컨설팅 및\n기술지원\n• 공작기계의 고도화에 따른 CNC 응용\n상품 커스터마이즈 개발\n• Smart Factory 솔루션 개발 및\n기술지원\n• Physical AI 기술의 응용상품 개발 및\n기술지원\n○명 | - 대학(4년제) 졸업예정자 및 기졸업자\n- 기계/전기/전자/제어/계측/\n컴퓨터공학 전공\n(C언어/네트워크/Database/Web개발 경험자 및 인턴 등 직무 관련 유경험자 우대)\n창원\nIT | • 사내 IT 인프라 및 클라우드 서비스 운영\n• Microsoft 365 기반 협업 환경 관리 및\n사용자 지원\n• ERP 등 내부 업무 시스템 운영 및 개선\n• 업무 효율화를 위한 자동화 프로그램 및\n시스템 개발\n○명 | - 대학(4년제) 졸업예정자 및 기졸업자\n- 컴퓨터공학/정보통신/소프트웨어 등\nIT 관련 전공\n- PowerBuilder, C#, JavaScript,\nJava, ORACLE 중 활용 가능자\n(Microsoft 365, Azure, AWS 등\n클라우드 환경 경험자 우대)\n창원\nRM 영업\n&\n기술지원 | • 공작기계(ROBODRILL/ROBOCUT/\nROBOSHOT) 어플리케이션 적용 검토\n• 공작기계 Project 관리 및 수행\n• 기술 지원(각종 Setup / 시운전, 교육)\n• 영업 기술 상담 지원 | ○명 | - 대학(4년제) 졸업예정자 및 기졸업자\n- 전기/전자/제어/계측/기계 전공\n(인턴 등 직무관련 유경험자 우대) | 안양\n로봇영업\n&\n기술지원 | • 영업 기술상담 지원\n• 로봇 어플리케이션 적용 검토\n• 3D 시뮬레이션 검토\n• 로봇 시스템 Project 관리 및 수행\n• 기술지원(각종 Setup / 시운전, 교육)\n• 영어 회의 진행 및 참석 | ○명 | - 대학(4년제) 졸업예정자 및 기졸업자\n- 전기/전자/제어/계측/기계 전공\n(인턴 등 직무관련 유경험자 우대)\n(영어 활용 능력 우수자 우대) | 안양\n경영지원 | • 인사(급여, 채용), 노무 관리\n• 자산 관리 및 문서 관리\n• 복리후생(건강검진, 4대보험 등),\n제규정 관리\n○명 | - 대학(4년제) 졸업예정자 및 기졸업자\n- 경영/경제/사회/법 전공\n(인턴 등 직무관련 유경험자 우대)\n창원\n한국\n화낙\n서비스\n주식\n회사 | 서비스 | • CNC 장치, ROBOMACHINE, 로봇 등\n자사 장비에 대한 수리 및 출장 대응\n○명 | - 대학(2년제) 졸업예정자 및 기졸업자\n- 전기/전자/제어/계측/기계 전공\n(인턴 등 직무관련 경험자 우대) | 창원\n○명 | - 대학(2년제) 졸업예정자 및 기졸업자\n- 전기/전자/제어/계측/기계 전공\n(인턴 등 직무관련 경험자 우대) | 천안\n* 신입사원은 채용 후에 수개월 간의 기술 연수 과정을 거쳐 부서 배치될 예정입니다.\n2. 채용절차\n서류전형\n(10.22~11.08)\n온라인 AI 역량검사\n(11월 16일~22일 예정)\n실무진 면접\n(12월 1주차 예정)\n임원 면접\n(12월 3주차 예정)\n신체검사\n(12월 4주차 예정)\n최종합격\n(1월 4일 입사)\n* 서류전형 결과 발표 : 2026년 11월 12일(목) 예정\n* 각 전형별 합격/불합격자는 문자 통보 및 홈페이지 결과발표 안내\n3. 제출방법\n- 입사지원서 작성 및 대학 전 학년 성적증명서 첨부\n* 「채용절차의 공정화에 관한 법률」 제 11조에 따라 제출한 서류의 반환을 청구할 수 있습니다.\n4. 지원방법 및 접수기간\n- 지원방법 : 채용 홈페이지 접수\n- 접수기한 : 2026년 11월 8일(일) 오후 11시 59분까지\n5. 기타\n- 장애인 및 취업보호대상자는 관련 법령에 의거 우대\n- 채용 관련 문의 : 한국화낙(055-278-1052~3), 한국화낙서비스(055-278-1263)\n구분 | 내용\n공고명 | 2027년도 한국화낙 신입사원 모집공고\n공고접수기간 | 2026년 10월 22일 ~ 2026년 11월 8일\n공고 URL | https://fkc.recruiter.co.kr/career/jobs/131996\n공고파일첨부",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "company": "한국화낙",
+   "employment_type": "정규직",
+   "region": "서울",
+   "job_category": "전기·전자 / 전자기기일반",
+   "path_seq": "36941",
+   "apply_url": null,
+   "sessions": null,
+   "program": null,
+   "summary_from_image": false,
+   "deadline_source": "field",
+   "source_key": "https://job.ssu.ac.kr/service/careerEmpl/opportunityInfo.do?sjrSeq=2d552e9f9811125d8e632ae5a66db9eb"
+  }
+ },
+ {
+  "id": "job_ssu:36921",
+  "source": "job_ssu",
+  "source_id": "36921",
+  "url": "https://job.ssu.ac.kr/service/careerEmpl/opportunityInfo.do?sjrSeq=ff4d497b2c4778c528dead38fb500a2c",
+  "title": "코스모웍스 광학실험[렌즈] 학사, 석사, 박사 직원 모집 / 코스모웍스 전기전자 학사, 석사, 박사 직원 모집",
+  "topic": "채용·인턴",
+  "posted_at": "2026-10-22",
+  "updated_at": "2026-10-24T20:23:42+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-10-31T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-10-31",
+    "at": "2026-10-31T23:59:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [
+    "GRADUATING"
+   ],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "코스모웍스에서 광학실험 및 전기전자 분야의 학사, 석사, 박사 직원을 모집합니다.",
+  "body": "[공고 1]\n제목: 코스모웍스 광학실험[렌즈] 학사, 석사, 박사 직원 모집\n(주)코스모웍스는 서울시 강남구 논현로16길 25(개포동)에 위치하고 있으며, 누리호에 자세제어장치를 탑재하여 우리나라 위성의 역사를 새로 쓰고 있습니다.\n2025년 11월 27일 누리호 4차 발사에서 JACK-003, JACK-004 큐브위성 발사에 성공하였고, 금번 5차 발사에도 탑재하여 발사하였습니다.\n우주에 도전하고자 하시는 과학자 여러분, (주)코스모웍스에 지원하셔서 꿈을 실현하십시오.\n1. 담당업무:\n광학실험 (렌즈)\nZygo 측정 능숙한 사람 급구\n2. 스킬: C++, Python, CAD, CATIA, CREO, 컴퓨터활용능력\n3. 자격요건\n학력: 대졸 이상 (졸업예정자 가능)\n경력: 경력 1년 이상\n해외여행 결격사유 없는 자\n4. 우대사항\n대기업 근무 경험자\n석사학위 수여자\n박사학위 수여자\n외국어: TOEIC 700점 이상\n5. 처우\n<주 40시간 기준>\n학사: 3,300만원~4,500만원(협의가능)\n석사: 5,000만원~6,000만원(협의가능)\n박사: 9,000만\n6. 전형절차\n: 서류전형 > 1차 면접 > 2차 면접 > 임원 면접 > 최종합격 (면접 일정은 개별 통보)\n[제출 서류]: info@cosmoworks.space 로 제출\n첨부된 자사 입사지원서 양식의 이력서, 자기소개서, 경력기술서\n대학졸업증명서, 대학성적증명서 (3개월 이내 발급) - 석/박의 경우 석사 박사 졸업증명서, 성적증명서\n면접심사 시 고등학교 생활기록부 출력본 지참\n제출하신 고등학교 생활기록부 포함 전체 서류는 반환되지 않습니다.\n제출된 서류의 내용이 사실과 다를 경우 채용 취소할 수 있습니다.\n허위 사실 발견 시 채용 취소될 수 있습니다.\n[공고 2]\n제목: 코스모웍스 전기전자 학사, 석사, 박사 직원 모집\n(주)코스모웍스는 서울시 강남구 논현로16길 25(개포동)에 위치하고 있으며, 누리호에 자세제어장치를 탑재하여 우리나라 위성의 역사를 새로 쓰고 있습니다.\n2025년 11월 27일 누리호 4차 발사에서 JACK-003, JACK-004 큐브위성 발사에 성공하였고, 금번 5차 발사에도 탑재하여 발사하였습니다.\n우주에 도전하고자 하시는 과학자 여러분, (주)코스모웍스에 지원하셔서 꿈을 실현하십시오.\n1. 담당업무: 3U CubeSAT 인공위성 개발 업무\n2. 스킬: C++, Python, CAD, CREO, 컴퓨터활용능력\n3. 자격요건\n학력: 대졸이상(졸업예정자 가능)\n경력: 경력무관\n해외여행 결격사유 없는 자\n4. 우대사항\nCAD/CAM 프로그램 능숙자\n대기업 근무 경험자\n석사학위 수여자\n박사학위 수여자\n외국어: TOEIC 700점 이상\n5. 처우\n<주 40시간 기준>\n학사: 3,300만원~4,500만원(협의가능)\n석사: 5,000만원~6,000만원(협의가능)\n박사: 9,000만\n6. 전형절차\n: 서류전형 > 1차 면접 > 2차 면접 > 임원 면접 > 최종합격 (면접 일정은 개별 통보)\n[제출 서류]: info@cosmoworks.space 로 제출\n첨부된 자사 입사지원서 양식의 이력서, 자기소개서, 경력기술서\n대학졸업증명서, 대학성적증명서 (3개월 이내 발급) - 석/박의 경우 석사 박사 졸업증명서, 성적증명서\n면접심사 시 고등학교 생활기록부 출력본 지참\n제출하신 고등학교 생활기록부 포함 전체 서류는 반환되지 않습니다.\n제출된 서류의 내용이 사실과 다를 경우 채용 취소할 수 있습니다.\n허위 사실 발견 시 채용 취소될 수 있습니다.",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [
+   {
+    "name": "CosmoWorks_Apply.입사지원서 양식.xlsx",
+    "url": "https://job.ssu.ac.kr/comm/cmfile/download.do?encSvrFileNm=b944bfb4eeaa186e72983e1ecd41fa2e9522c9acb93654813186bfd2c328712227e03b0ce000bb33d6141ac8768fda94441458f9c2b735beae831a8769ce984c"
+   }
+  ],
+  "extra": {
+   "company": "코스모윅스",
+   "employment_type": "정규직",
+   "region": "서울",
+   "job_category": "전기·전자 / 전기",
+   "path_seq": "36921",
+   "apply_url": null,
+   "sessions": null,
+   "program": null,
+   "summary_from_image": false,
+   "deadline_source": "field",
+   "source_key": "https://job.ssu.ac.kr/service/careerEmpl/opportunityInfo.do?sjrSeq=ff4d497b2c4778c528dead38fb500a2c"
+  }
+ },
+ {
+  "id": "job_ssu:c8aaa931816d",
+  "source": "job_ssu",
+  "source_id": "c8aaa931816d",
+  "url": "https://job.ssu.ac.kr/service/careerEmpl/partTimeInfo.do?sjrSeq=617140d8eff2932869714c6bcfa72a64",
+  "title": "[LINE]  영상 컨텐츠 제작 및 편집 아르바이트",
+  "topic": "아르바이트",
+  "posted_at": "2026-09-04",
+  "updated_at": "2026-10-09T22:48:07+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-09-10T23:59:00+09:00",
+  "deadlines": [
+   {
+    "kind": "OTHER",
+    "label": "마감",
+    "date": "2026-09-10",
+    "at": "2026-09-10T23:59:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "라인에서 영상 컨텐츠 제작 및 편집 아르바이트를 모집합니다.",
+  "body": "[LINE] 영상 컨텐츠 제작 및 편집 아르바이트\n[지원방법]\n이메일을 통한 PDF 파일 형식의 자유양식 이력서 첨부하여 메일 제출\n[지원서 접수 이메일]\nhesed@linecorp.com (반드시 해당 이메일로 접수 부탁드립니다.)\n[고용형태]\n아르바이트\n[담당 업무]\n- 영상 컨텐츠 편집 및 기획\n- 디자인 컨텐츠 제작\n- AI 영상 컨텐츠 기획 및 제작\n[필요 역량]\n- 영상 컨텐츠 편집 및 이미지 제작이 가능하신 분\n- 성실하고 책임감 있는 태도로 업무에 임하실 분\n- AI 영상 컨텐츠 제작이 가능하신 분\n[전형]\n서류 전형 > 면접\n- 전형 절차는 일정 및 상황에 따라 변경될 수 있습니다.\n- 서류 전형 합격자에 한해 개별적으로 연락 드릴 예정입니다.\n- 지원서 내용 중 허위 사실이 있는 경우에는 합격이 취소될 수 있습니다.\n- 국가유공자 및 장애인 등 취업 보호 대상자는 관계 법령에 따라 우대합니다.\n[근무기간]\n2026.09.17 - 2026.12.14\n총 일수 : 89일\n*근무 시작일과 종료일은 상황에 따라 변경될 수 있으며, 구체적인 일정은 개별 협의 예정입니다.\n[근무시간]\n주 5일 월, 화, 수, 목, 금\n기본 근무 시간 : 10:00 - 19:00\n[근무장소]\n서현역 분당스퀘어 (경기 성남시 분당구 황새울로360번길 42, 20층 (서현동, AK플라자)) / 재택 근무 가능\n[모집인원]\n1명\n[급여조건]\n시급: 10,320원\n[접수 마감일]\n2026년 09월 10일 (목) 23:59까지\n*서류 통과자에 한해 개별 연락 후 면접 진행 예정입니다.\n*전형 절차는 일정 및 상황에 따라 변경될 수 있습니다.\n*지원서 내용 중 허위사실이 있는 경우에는 합격이 취소될 수 있습니다.\n*국가유공자 및 장애인 등 취업보호 대상자는 관계법령에 따라 우대합니다.\n*제출하신 서류는 일체 반환하지 않습니다.\n*기타 문의사항은 E-mail로 문의바랍니다. (hesed@linecorp.com)\n#LINE #라인 #아르바이트",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "company": "LINE",
+   "employment_type": null,
+   "region": "교외",
+   "job_category": null,
+   "path_seq": null,
+   "apply_url": null,
+   "sessions": null,
+   "program": null,
+   "summary_from_image": false,
+   "deadline_source": "field",
+   "source_key": "https://job.ssu.ac.kr/service/careerEmpl/partTimeInfo.do?sjrSeq=617140d8eff2932869714c6bcfa72a64"
+  }
+ },
+ {
+  "id": "job_ssu:820106e42a8c",
+  "source": "job_ssu",
+  "source_id": "820106e42a8c",
+  "url": "https://job.ssu.ac.kr/service/careerProgram/careerProgramInfo.do?encSddpbSeq=d230ae6ab6b02586edbb750d6927a5a1",
+  "title": "[2026년 숭실 잡페어] 현직 선배 멘토링",
+  "topic": "비교과·프로그램",
+  "posted_at": null,
+  "updated_at": "2026-10-09T22:48:07+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-09-08T16:00:00+09:00",
+  "deadlines": [
+   {
+    "kind": "APPLICATION",
+    "label": "1. 삼성바이오로직스 - 공정엔지니어",
+    "date": "2026-09-07",
+    "at": "2026-09-07T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "2. 삼성SDI - 공정엔지니어",
+    "date": "2026-09-07",
+    "at": "2026-09-07T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "3. 현대에버다임 - AX",
+    "date": "2026-09-07",
+    "at": "2026-09-07T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "4. 카카오커머스 - CRM 마케터",
+    "date": "2026-09-07",
+    "at": "2026-09-07T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "5. 네이버 - iOS 개발자",
+    "date": "2026-09-07",
+    "at": "2026-09-07T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "6. 삼성물산 - 건축설계",
+    "date": "2026-09-08",
+    "at": "2026-09-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "7. 국립대한민국임시정부기념관 - 전시기획",
+    "date": "2026-09-08",
+    "at": "2026-09-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "8. 크레프톤 - HR",
+    "date": "2026-09-08",
+    "at": "2026-09-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "9. 한국산업은행 - AI 데이터",
+    "date": "2026-09-08",
+    "at": "2026-09-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "10. 비바리퍼블리카 토스 - 운영/기획",
+    "date": "2026-09-08",
+    "at": "2026-09-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "high"
+  },
+  "summary": "숭실 현직자 선배님들과 소그룹 취업 멘토링(대면 방식)을 통해 진로와 취업에 대한 경험을 나누고 현실적이고 구체적인 취업 준비를 돕기 위한 프로그램임",
+  "body": "[2026년 숭실 잡페어] 현직 선배 멘토링\n숭실 현직자 선배님들과 소그룹 취업 멘토링(대면 방식)을 통해 진로와 취업에 대한 경험을 나누고 현실적이고 구체적인 취업 준비를 돕기 위한 프로그램임\n[1. 삼성바이오로직스 - 공정엔지니어] 신청 2026-08-22T16:00 ~ 2026-09-07T16:00 / 운영 2026-09-08T13:00 ~ 2026-09-08T17:00 / 정원 36 / 장소 형남홀\n[2. 삼성SDI - 공정엔지니어] 신청 2026-08-22T16:00 ~ 2026-09-07T16:00 / 운영 2026-09-08T13:00 ~ 2026-09-08T17:00 / 정원 36 / 장소 형남홀\n[3. 현대에버다임 - AX] 신청 2026-08-22T16:00 ~ 2026-09-07T16:00 / 운영 2026-09-08T13:00 ~ 2026-09-08T17:00 / 정원 36 / 장소 형남홀\n[4. 카카오커머스 - CRM 마케터] 신청 2026-08-22T16:00 ~ 2026-09-07T16:00 / 운영 2026-09-08T13:00 ~ 2026-09-08T17:00 / 정원 36 / 장소 형남홀\n[5. 네이버 - iOS 개발자] 신청 2026-08-22T16:00 ~ 2026-09-07T16:00 / 운영 2026-09-08T13:00 ~ 2026-09-08T17:00 / 정원 36 / 장소 형남홀\n[6. 삼성물산 - 건축설계] 신청 2026-08-22T16:00 ~ 2026-09-08T16:00 / 운영 2026-09-09T13:00 ~ 2026-09-09T17:00 / 정원 36 / 장소 형남홀\n[7. 국립대한민국임시정부기념관 - 전시기획] 신청 2026-08-22T16:00 ~ 2026-09-08T16:00 / 운영 2026-09-09T13:00 ~ 2026-09-09T17:00 / 정원 36 / 장소 형남홀\n[8. 크레프톤 - HR] 신청 2026-08-22T16:00 ~ 2026-09-08T16:00 / 운영 2026-09-09T13:00 ~ 2026-09-09T17:00 / 정원 36 / 장소 형남홀\n[9. 한국산업은행 - AI 데이터] 신청 2026-08-22T16:00 ~ 2026-09-08T16:00 / 운영 2026-09-09T13:00 ~ 2026-09-09T17:00 / 정원 36 / 장소 형남홀\n[10. 비바리퍼블리카 토스 - 운영/기획] 신청 2026-08-22T16:00 ~ 2026-09-08T16:00 / 운영 2026-09-09T13:00 ~ 2026-09-09T17:00 / 정원 36 / 장소 형남홀\n\n프로그램 분류: 상담/멘토링/코칭\n운영방식: 대면\n프로그램 목표: 숭실대 졸업생 현직 멘토와의 직접적 소통을 통해 취업 준비 방법 및 직무 내용, 기업문화에 대한 이해를 바탕으로 취업 의지 고취 및 구체적인 취업 계획 마련\n선정방법: 선착순선발\n지급 마일리지: 10\n핵심역량 비중도: 리더십역량 75 % 창의역량 25 %\n신청대상 상세: 학적 전체, 구분 전체, 학년 전체, 학위 전체",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "company": "진로취업팀",
+   "employment_type": "비교과 (비학점)",
+   "region": null,
+   "job_category": "리더십, 창의",
+   "path_seq": null,
+   "apply_url": "https://path.ssu.ac.kr/comm/login/user/login.do?rtnUrl=/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d230ae6ab6b02586edbb750d6927a5a1",
+   "sessions": [
+    {
+     "label": "1. 삼성바이오로직스 - 공정엔지니어",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-07T16:00",
+     "run_start": "2026-09-08T13:00",
+     "run_end": "2026-09-08T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 25,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "2. 삼성SDI - 공정엔지니어",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-07T16:00",
+     "run_start": "2026-09-08T13:00",
+     "run_end": "2026-09-08T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 32,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "3. 현대에버다임 - AX",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-07T16:00",
+     "run_start": "2026-09-08T13:00",
+     "run_end": "2026-09-08T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 20,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "4. 카카오커머스 - CRM 마케터",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-07T16:00",
+     "run_start": "2026-09-08T13:00",
+     "run_end": "2026-09-08T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 26,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "5. 네이버 - iOS 개발자",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-07T16:00",
+     "run_start": "2026-09-08T13:00",
+     "run_end": "2026-09-08T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 13,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "6. 삼성물산 - 건축설계",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-08T16:00",
+     "run_start": "2026-09-09T13:00",
+     "run_end": "2026-09-09T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 15,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "7. 국립대한민국임시정부기념관 - 전시기획",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-08T16:00",
+     "run_start": "2026-09-09T13:00",
+     "run_end": "2026-09-09T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 6,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "8. 크레프톤 - HR",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-08T16:00",
+     "run_start": "2026-09-09T13:00",
+     "run_end": "2026-09-09T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 27,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "9. 한국산업은행 - AI 데이터",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-08T16:00",
+     "run_start": "2026-09-09T13:00",
+     "run_end": "2026-09-09T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 38,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    },
+    {
+     "label": "10. 비바리퍼블리카 토스 - 운영/기획",
+     "apply_start": "2026-08-22T16:00",
+     "apply_end": "2026-09-08T16:00",
+     "run_start": "2026-09-09T13:00",
+     "run_end": "2026-09-09T17:00",
+     "capacity": 36,
+     "waitlist": 10,
+     "applied": 24,
+     "waiting": 0,
+     "can_apply": true,
+     "place": "형남홀"
+    }
+   ],
+   "program": {
+    "프로그램 유형": "진로취업지원 / 취창업정보박람회",
+    "운영년도/학기": "2026년 2학기",
+    "프로그램 분류": "상담/멘토링/코칭",
+    "프로그램 형식": "비교과 (비학점)",
+    "운영방식": "대면",
+    "신청방법": "내부",
+    "선정방법": "선착순선발",
+    "정원/대기자": "정원 360 명 / 대기자 100 명",
+    "이수 인증서": "O",
+    "지급 마일리지": "10",
+    "핵심역량 비중도": "리더십역량 75 % 창의역량 25 %"
+   },
+   "summary_from_image": false,
+   "deadline_source": "program_field",
+   "source_key": "https://job.ssu.ac.kr/service/careerProgram/careerProgramInfo.do?encSddpbSeq=d230ae6ab6b02586edbb750d6927a5a1"
+  }
+ },
+ {
+  "id": "ssu_catch:7a1e7983495a",
+  "source": "ssu_catch",
+  "source_id": "7a1e7983495a",
+  "url": "https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category=%EB%B9%84%EA%B5%90%EA%B3%BC%C2%B7%ED%96%89%EC%82%AC&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%BA%A0%ED%8D%BC%EC%8A%A4%ED%83%80%EC%9A%B4-2026-%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9-%EC%95%B1%EC%A0%9C%EC%9E%91-%EC%B1%8C%EB%A6%B0%EC%A7%80&keyword",
+  "title": "[숭실대학교 캠퍼스타운] 2026 바이브코딩 앱제작 챌린지 대회 참여자 모집",
+  "topic": "비교과·프로그램",
+  "posted_at": "2026-09-23",
+  "updated_at": "2026-10-24T20:56:27+09:00",
+  "deadline_status": "OPEN",
+  "deadline_at": null,
+  "deadlines": [
+   {
+    "kind": "EVENT",
+    "label": "사전교육 1차",
+    "date": "2026-10-04",
+    "at": "2026-10-04T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "사전교육 2차",
+    "date": "2026-10-10",
+    "at": "2026-10-10T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "예선전",
+    "date": "2026-10-14",
+    "at": "2026-10-14T00:00:00+09:00",
+    "precision": "DAY"
+   },
+   {
+    "kind": "EVENT",
+    "label": "결승전",
+    "date": "2026-10-31",
+    "at": "2026-10-31T00:00:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "colleges": [],
+   "depts": [],
+   "grades": [],
+   "levels": [],
+   "statuses": [],
+   "nationality": null,
+   "min_gpa": null,
+   "other_conditions": [],
+   "confidence": "medium"
+  },
+  "summary": "전국 고등학생을 대상으로 하는 2026 바이브코딩 앱제작 챌린지 대회 참여자 모집",
+  "body": "고등학생들을 대상으로 한 [2026 바이브코딩 앱제작 챌린지] 대회가 개최됩니다!\n많은 학생들의 관심과 참여 부탁드립니다.\n○ 행 사 명: 2026 춘천 바이브코딩 앱제작 챌린지\n○ 주최/주관: 춘천시 / (재)강원정보문화산업진흥원\n○ 모집대상: 전국 고등학생 40명 (선착순 모집)\n○ 모집방법: 온라인 QR코드 등록(참가비 무료)\n○ 행사일정: 2026. 10. 4. ~ 10. 31.\n○ 참가혜택: 결승전 심사 후 우수자 대상 상장 및 상금 수여 및\n(희망자 한) 아마존웹서비스 코리아 본사(서울) 견학\n○ 사전교육 택1\n◎ 1차\n– 일시: 26. 10. 4.(일)~26. 10. 5.(월)\n– 장소: 춘천시청\n◎ 2차\n– 일시: 26. 10. 10.(토)~26. 10. 11.(일)\n– 장소: 숭실대학교 테크스테이션 B1 컨퍼런스룸\n○ 예선전\n– 기간: 26. 10. 14.(수)~26. 10. 27.(화)\n– 온라인 경연장\n– 참가인원: 40명\n○ 결승전\n– 일시: 26. 10. 31.(토)\n– 장소: 춘천 ICT 벤처센터\n– 참가인원: 20명\n※ 자세한 내용은 첨부된 모집 공고문 참조",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [
+   {
+    "name": "「2026-춘천-바이브코딩-앱제작-챌린지」-참여자-모집-공고문.pdf",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbs8QvtixFrNRc%2B09d%2BeAj0z9uoQhgLYDe8WLdcZytRMsJoZNunnZQCjDvFFL5Yjq42fm%2BHL%2BuO696ZNQqCun%2BLeI0vHavxuOM4Lft7L9ysAZjmR1aoRN6nBSqugBN79mustW86NmD5q5nqfhwxCA6EKzAcwBCttSKRzeG6f5X8wkgnWCm008I1Akf6okv2GYYKQgplQlKU4EuQRJ3AhBBheoP%2BVeuJq%2BMv99QRDuqmE7JmFTEDfY9UGttNsK0ONVojQ%3D%3D"
+   },
+   {
+    "name": "첨부2.포스터_2026바이브코딩앱제작챌린지.PNG.png",
+    "url": "https://scatch.ssu.ac.kr/download.php?data=1iZBAEYP01G24N2v6wVl9s5jGa0smQ8%2B8HVba1YhOwKiKp0Ym%2FP%2FpR0dBOZOTbHzGy%2BTusAioC15PqvrQTvbsyGLxEJ3v3gxN5jB%2Fcxc%2BOg9cvZWhQw9ZnmjcLP%2F1yGa72hMopvpyM4WxlMQtdpo4jBfGYuanZ6Vgp5tcDmqGudJ5vT7CqSD8CtQn6DLhVAwCs0L%2FvcIr9rqep4Lc0Pi4WR0NOMnMiSOSdnpO0EU9RNp5eZXll5P5MwRnQIfr1b6uMqO3o9oArDIkAKp3gL82g%3D%3D"
+   }
+  ],
+  "extra": {
+   "source_key": "숭실대학교-캠퍼스타운-2026-바이브코딩-앱제작-챌린지"
+  }
+ }
+]

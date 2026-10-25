@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SSU:Pick 공통 공지 형식 v1",
+  "type": "object",
+  "required": ["id", "source", "source_id", "url", "title", "topic", "deadline_status", "deadlines"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "description": "source:source_id" },
+    "source": { "enum": ["ssu_catch", "job_ssu", "instagram", "youth_mongddang", "lh", "sh"] },
+    "source_id": { "type": "string" },
+    "url": { "type": "string", "description": "원문 링크 (앱 '원문 보기')" },
+    "title": { "type": "string" },
+    "topic": { "enum": ["장학", "학사", "채용·인턴", "아르바이트", "비교과·프로그램", "해외·교환", "봉사", "공모전·대외활동", "유학생", "교원채용", "주거", "청년지원", "기타"] },
+    "posted_at": { "type": ["string", "null"], "description": "YYYY-MM-DD" },
+    "updated_at": { "type": ["string", "null"], "description": "ISO8601, 수집기가 마지막으로 바뀐 걸 확인한 시각" },
+    "deadline_status": { "enum": ["FIXED", "OPEN", "NONE", "UNKNOWN"] },
+    "deadline_at": { "type": ["string", "null"], "description": "대표 마감(홈 정렬·D-day). deadlines 중 최종 지원 마감. kind가 EVENT인 행사일은 마감이 아니므로 넣지 않는다" },
+    "deadlines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["kind", "label", "at"],
+        "additionalProperties": false,
+        "properties": {
+          "kind": { "enum": ["APPLICATION", "SCHOOL_NOMINATION", "DOCUMENT", "INTERVIEW", "EVENT", "OTHER"] },
+          "label": { "type": "string" },
+          "date": { "type": "string" },
+          "at": { "type": "string" },
+          "precision": { "enum": ["MINUTE", "DAY"] }
+        }
+      }
+    },
+    "eligibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "scope": { "enum": ["ALL", "COLLEGE", "DEPT"], "description": "학과 범위만. 나이·지역 등은 아래 필드" },
+        "colleges": { "type": "array", "items": { "type": "string" } },
+        "depts": { "type": "array", "items": { "type": "string" } },
+        "grades": { "type": "array", "items": { "type": "integer" } },
+        "min_semester": { "type": ["integer", "null"], "description": "학기 조건 하한(예: 2~7학기 → 2). 1학년 1학기=1, 1학년 2학기=2 ... 4학년 2학기=8" },
+        "max_semester": { "type": ["integer", "null"], "description": "학기 조건 상한(예: 2~7학기 → 7). 없으면 null" },
+        "levels": { "type": "array", "items": { "enum": ["UNDERGRAD", "GRAD"] }, "description": "학부/대학원. 비우면 구분 없음" },
+        "statuses": { "type": "array", "items": { "enum": ["ENROLLED", "RETURNING", "LEAVE", "GRADUATING", "GRADUATE", "JOB_SEEKER"] }, "description": "재학/복학예정/휴학/졸업예정/졸업/미취업(취준생). 비우면 상태 제한 없음" },
+        "gender": { "enum": ["MALE_ONLY", "FEMALE_ONLY", null], "description": "예비군 등 성별 제한이 있을 때만. 없으면 null/생략" },
+        "nationality": { "enum": ["DOMESTIC_ONLY", "FOREIGN_ONLY", null] },
+        "min_age": { "type": ["integer", "null"] },
+        "max_age": { "type": ["integer", "null"] },
+        "regions": { "type": "array", "items": { "type": "string" } },
+        "min_gpa": { "type": ["number", "null"] },
+        "other_conditions": { "type": "array", "items": { "type": "string" } },
+        "confidence": { "enum": ["high", "medium", "low"] }
+      }
+    },
+    "summary": { "type": ["string", "null"] },
+    "body": { "type": ["string", "null"], "description": "공지 본문(글자만). 검색·재처리용. 앱 목록 응답에서는 빼도 됨" },
+    "needs_review": { "type": "boolean" },
+    "content_kind": { "enum": ["TEXT", "이미지", "첨부만", "본문없음"] },
+    "attachments": { "type": "array", "items": { "type": "object", "required": ["url"], "properties": { "name": { "type": ["string", "null"] }, "url": { "type": "string" } } } },
+    "extra": { "type": "object" }
+  }
+}

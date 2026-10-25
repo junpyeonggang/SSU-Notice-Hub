@@ -1,0 +1,161 @@
+[
+ {
+  "id": "ssu_catch:demo-notice-001",
+  "source": "ssu_catch",
+  "source_id": "demo-notice-001",
+  "url": "https://scatch.ssu.ac.kr/...",
+  "title": "(가상 예시) 봉사단 모집 공고",
+  "topic": "봉사",
+  "posted_at": "2026-10-20",
+  "updated_at": "2026-10-22T09:00:00+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-08T16:00:00+09:00",
+  "deadlines": [
+   {
+    "kind": "SCHOOL_NOMINATION",
+    "label": "교내 추천 마감",
+    "date": "2026-11-01",
+    "at": "2026-11-01T17:00:00+09:00",
+    "precision": "MINUTE"
+   },
+   {
+    "kind": "APPLICATION",
+    "label": "최종 지원 마감",
+    "date": "2026-11-08",
+    "at": "2026-11-08T16:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "nationality": "DOMESTIC_ONLY",
+   "min_age": 19,
+   "confidence": "medium"
+  },
+  "summary": "봉사단 모집, 교내 추천 후 최종 지원",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [],
+  "extra": {
+   "recruitment_stage": "교내추천 후 최종 지원"
+  }
+ },
+ {
+  "id": "instagram:C_abc123",
+  "source": "instagram",
+  "source_id": "C_abc123",
+  "url": "https://www.instagram.com/p/C_abc123/",
+  "title": "(가상 예시) 총학생회 가을 축제 안내",
+  "topic": "비교과·프로그램",
+  "posted_at": "2026-10-21",
+  "updated_at": "2026-10-21T18:00:00+09:00",
+  "deadline_status": "UNKNOWN",
+  "deadline_at": null,
+  "deadlines": [],
+  "eligibility": {
+   "scope": "ALL",
+   "confidence": "low"
+  },
+  "summary": "가을 축제 일정 안내 포스터",
+  "needs_review": true,
+  "content_kind": "이미지",
+  "attachments": [],
+  "extra": {
+   "account": "ssu_student_council",
+   "image_urls": [
+    "https://.../1.jpg"
+   ]
+  }
+ },
+ {
+  "id": "youth_mongddang:2026-1234",
+  "source": "youth_mongddang",
+  "source_id": "2026-1234",
+  "url": "https://youth.seoul.go.kr/...",
+  "title": "(가상 예시) 청년 월세 지원 사업",
+  "topic": "주거",
+  "posted_at": "2026-10-01",
+  "updated_at": "2026-10-22T09:00:00+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-30T18:00:00+09:00",
+  "deadlines": [
+   {
+    "kind": "APPLICATION",
+    "label": "신청 마감",
+    "date": "2026-11-30",
+    "at": "2026-11-30T18:00:00+09:00",
+    "precision": "MINUTE"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "min_age": 19,
+   "max_age": 39,
+   "regions": [
+    "서울"
+   ],
+   "other_conditions": [
+    "무주택",
+    "중위소득 150% 이하"
+   ],
+   "confidence": "high"
+  },
+  "summary": "서울 거주 19~39세 무주택 청년 월세 지원",
+  "needs_review": false,
+  "content_kind": "TEXT",
+  "attachments": [
+   {
+    "name": "공고문.pdf",
+    "url": "https://.../notice.pdf"
+   }
+  ],
+  "extra": {
+   "benefit": "월 최대 20만원"
+  }
+ },
+ {
+  "id": "lh:2026-lh-0777",
+  "source": "lh",
+  "source_id": "2026-lh-0777",
+  "url": "https://apply.lh.or.kr/...",
+  "title": "(가상 예시) 청년 매입임대 입주자 모집",
+  "topic": "주거",
+  "posted_at": "2026-10-15",
+  "updated_at": "2026-10-22T09:00:00+09:00",
+  "deadline_status": "FIXED",
+  "deadline_at": "2026-11-05T17:00:00+09:00",
+  "deadlines": [
+   {
+    "kind": "DOCUMENT",
+    "label": "서류 접수 마감",
+    "date": "2026-11-05",
+    "at": "2026-11-05T17:00:00+09:00",
+    "precision": "DAY"
+   }
+  ],
+  "eligibility": {
+   "scope": "ALL",
+   "min_age": 19,
+   "max_age": 39,
+   "statuses": [
+    "ENROLLED",
+    "LEAVE",
+    "JOB_SEEKER"
+   ],
+   "other_conditions": [
+    "무주택자"
+   ],
+   "confidence": "medium"
+  },
+  "summary": "청년 매입임대 입주자 모집",
+  "needs_review": false,
+  "content_kind": "첨부만",
+  "attachments": [
+   {
+    "name": "모집공고문.pdf",
+    "url": "https://.../lh.pdf"
+   }
+  ],
+  "extra": {}
+ }
+]
